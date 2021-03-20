@@ -17,6 +17,12 @@ Apache License 2.0
 
 ### Requirements
 
+- Python 3.8
+- skfuzzy 0.2 (https://pythonhosted.org/scikit-fuzzy/)
+- scikit-learn 0.23.2 (https://scikit-learn.org/stable/)
+- PyIT2FLS 0.6.1 (https://haghrah.github.io/PyIT2FLS/examples.html)
+- Argoverse API (https://github.com/argoai/argoverse-api)
+
 ### Features
 
 ### Clustering
