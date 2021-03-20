@@ -24,6 +24,17 @@ Apache License 2.0
 - Argoverse API (https://github.com/argoai/argoverse-api)
 
 ### Features
+#### Dataset
+1) Follow the instructions to install the Argoverse dataset API at: https://github.com/argoai/argoverse-api
+2) Download *training* and *validation* datasets for Motion Forecasting v1.1
+
+#### Sequences Extraction 
+
+1) at features/argoverse_template:
+  $ python extract_sequences.py --data_dir *<path to where the data is saved>* --features_dir *<path to where you want to save the sequences>* --mode *<train or val>* --batch_size 500 --obs_len 5 --filter *<ekf, none, or savgol>*
+  
+2) at features:
+  $ python compute_features.py --data_dir *<path to where the sequences are saved>* --features_fir *<path to where you want to save the features>* --mode *<train or val>* --batch_size 100 --obs_len 5 --filter *<ekf, none, or savgol>*
 
 ### Clustering
 
