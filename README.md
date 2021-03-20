@@ -33,7 +33,7 @@ Apache License 2.0
 1) at features/argoverse_template:
 
   ```
-  python extract_sequences.py --data_dir <i><path to where the data is saved></i> --features_dir <path to where you want to save the sequences> --mode <train or val> --batch_size 500 --obs_len 5 --filter <ekf, none, or savgol>
+  python extract_sequences.py --data_dir <path to where the data is saved> --features_dir <path to where you want to save the sequences> --mode <train or val> --batch_size 500 --obs_len 5 --filter <ekf, none, or savgol>
   ```
   
 2) at features:
