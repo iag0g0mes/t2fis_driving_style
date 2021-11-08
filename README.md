@@ -17,7 +17,14 @@ Driving styles summarize different driving behaviors that reflect in the movemen
 Apache License 2.0
 
 ## Citation
-
+``` 
+@article{gomes2021driving,
+  title={Driving Style Recognition Using Interval Type-2 Fuzzy Inference System and Multiple Experts Decision Making},
+  author={Gomes, Iago Pach{\^e}co and Wolf, Denis Fernando},
+  journal={arXiv preprint arXiv:2110.13805},
+  year={2021}
+}
+```
 ## Usage
 
 ### Requirements
