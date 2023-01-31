@@ -2,7 +2,7 @@
 
 Created by Iago Pachêco Gomes at USP - ICMC, University of São Paulo - Institute of Mathematics and Computer Science
 
-**(waiting for the result of the submission to Expert Systems with Applications)**
+**(waiting for the result of the submission to Internation Journal of Fuzzy Systems)**
 
 ## Introduction
 
