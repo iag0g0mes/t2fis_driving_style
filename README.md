@@ -18,11 +18,13 @@ Apache License 2.0
 
 ## Citation
 ``` 
-@article{gomes2021driving,
-  title={Driving Style Recognition Using Interval Type-2 Fuzzy Inference System and Multiple Experts Decision Making},
-  author={Gomes, Iago Pach{\^e}co and Wolf, Denis Fernando},
-  journal={arXiv preprint arXiv:2110.13805},
-  year={2021}
+@article{pacheco2023driving,
+  title={Driving Style Recognition Using Interval Type-2 Fuzzy Inference System and Multiple Experts Decision-Making},
+  author={Pach{\^e}co Gomes, Iago and Wolf, Denis Fernando},
+  journal={International Journal of Fuzzy Systems},
+  pages={1--19},
+  year={2023},
+  publisher={Springer}
 }
 ```
 ## Usage
@@ -59,7 +61,7 @@ Apache License 2.0
 
 ## References
 
-[1] GOMES, Iago Pachêco; WOLF, Denis Fernando. Driving Style Recognition Using Interval Type-2 Fuzzy Inference System and Multiple Experts Decision Making. **Internation Journal of Fuzzy Systems**. 2021.
+[1] GOMES, Iago Pachêco; WOLF, Denis Fernando. Driving Style Recognition Using Interval Type-2 Fuzzy Inference System and Multiple Experts Decision Making. **Internation Journal of Fuzzy Systems**. 2023.
 
 
 
