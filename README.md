@@ -59,7 +59,7 @@ Apache License 2.0
 
 ## References
 
-[1] (under revision) GOMES, Iago Pachêco; WOLF, Denis Fernando. Driving Style Recognition Using Interval Type-2 Fuzzy Inference System and Multiple Experts Decision Making. **Internation Journal of Fuzzy Systems**. 2021.
+[1] GOMES, Iago Pachêco; WOLF, Denis Fernando. Driving Style Recognition Using Interval Type-2 Fuzzy Inference System and Multiple Experts Decision Making. **Internation Journal of Fuzzy Systems**. 2021.
 
 
 
