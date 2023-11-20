@@ -75,6 +75,20 @@ Apache License 2.0
    
 ### Fuzzy Inference Systems
 
+#### Type-1 Fuzzy Inference System
+
+1) at fuzzy_t1/
+     
+   ```
+   python fuzzy_t1.py --data_dir <directory to where the features are saved (npy files)>  --rules_dir <directory where the FLS' rules are saved> --result_dir <path to where the results should be saved> --mode <train, val, or test> --obs_len <2 or 5> --filter <ekf, none, or savgol> --expert_mode <single, multiple>
+   ```
+#### Type-2 Fuzzy Inference System
+
+1) at fuzzy_t2/
+   ```
+   python fuzzy_t2.py --data_dir <directory to where the features are saved (npy files)>  --rules_dir <directory where the FLS' rules are saved> --result_dir <path to where the results should be saved> --mode <train, val, or test> --obs_len <2 or 5> --filter <ekf, none, or savgol> --expert_mode <single, multiple>
+   ```
+
 ## References
 
 [1] GOMES, Iago Pachêco; WOLF, Denis Fernando. Driving Style Recognition Using Interval Type-2 Fuzzy Inference System and Multiple Experts Decision Making. **Internation Journal of Fuzzy Systems**. 2023.
