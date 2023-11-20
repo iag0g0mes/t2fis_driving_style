@@ -58,7 +58,9 @@ Apache License 2.0
 ### Clustering
 
 1) at clustering/:
+   
    1.1) model training (learning clustering parameters using the train dataset):
+   
    1.1.1) Change the kmeans.py file for the other algorithms: fuzzy_c_means.py, gaussian_mixture.py, hierarchical_clustering.py
 
    ```
