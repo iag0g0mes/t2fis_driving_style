@@ -57,6 +57,20 @@ Apache License 2.0
   ```
 ### Clustering
 
+1) at clustering/:
+   1.1) model training (learning clustering parameters using the train dataset):
+   1.1.1) Change the kmeans.py file for the other algorithms: fuzzy_c_means.py, gaussian_mixture.py, hierarchical_clustering.py
+
+   ```
+   python kmeans.py --data_dir <directory to where the features are saved (npy files)> --result_dir <directory to where the learned model should be saved> --mode train --obs_len <2 or 5> --filter <ekf, none, or savgol>
+   ```
+
+   1.2) model testing or validation
+   
+   ```
+   python kmeans.py --data_dir <directory where the features are saved (npy files)> --model_dir <directory where the model is saved> --result_dir <path to where the results should be saved> --mode <test or val> --obs_len <2 or 5> --filter <ekf, none, or savgol>
+   ```
+   
 ### Fuzzy Inference Systems
 
 ## References
